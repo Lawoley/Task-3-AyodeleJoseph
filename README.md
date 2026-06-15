@@ -12,14 +12,17 @@ This project involved analysing an Orders dataset using SQL Server Management St
 
 ## Key Analyses Performed
 - Viewed full dataset structure
-- Filtered delivered orders
-- Sorted orders by total price
-- Calculated total number of orders
-- Calculated total revenue
-- Analysed payment methods
+- Filtered delivered orders using WHERE clause
+- Sorted orders by total price using ORDER BY
+- Calculated total number of orders using COUNT
+- Calculated total revenue using SUM
+- Analysed payment method distribution
 - Analysed order status distribution
-- Calculated revenue per product
+- Analysed referral sources to identify customer acquisition channels
+- Calculated total revenue per product
 - Calculated average spending per product
+- Calculated total units sold per product
+- Identified top 10 highest-spending customers
 
 ## Tools Used
 - SQL Server Management Studio (SSMS)
